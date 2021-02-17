@@ -47,7 +47,7 @@ namespace Tesztverseny
                 {
                     eredmeny += " ";
                 }
-            }
+            } 
             Console.WriteLine($"{eredmeny} \t(a versenyző helyes válaszai)\n");
 
             //5.feladat
